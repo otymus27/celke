@@ -1,0 +1,14 @@
+{
+    "name": "celke",
+    "version": "1.0.0",
+    "description": "-   Node.js 22 ou superior - conferir a versão: node -v",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Fábio Rocha",
+    "license": "ISC",
+    "devDependencies": {
+        "typescript": "^5.8.3"
+    }
+}
